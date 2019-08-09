@@ -14,7 +14,6 @@ let subtract = document.getElementById("subtract");
 add.addEventListener('click', addVal);
 subtract.addEventListener('click',subtractVal);
 
-
 /*----- functions -----*/
 initialize();
 
